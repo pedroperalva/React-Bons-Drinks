@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+
+.container{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.label{
+    margin-bottom: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
+.input{
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid rgba(92,5,17,.4);
+    padding: 0;
+    font-size: 18px;
+    color: #101010;
+}

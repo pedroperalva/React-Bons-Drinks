@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bilbo+Swash+Caps&display=swap');
+
+.div1{
+  background-repeat: no-repeat;
+  height: 100%;
+  background-position: center;
+  background-image: url('../../img/bg-bons-drinks.jpg')
+}
+.title{
+  color: #FFFDF8;
+  font-size: 120px;
+  font-weight: bold;
+  font-family: 'Bilbo Swash Caps', cursive;
+  text-align: center;
+  padding-top: 40px;
+}
+

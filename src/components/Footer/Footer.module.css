@@ -1,0 +1,20 @@
+.footerBar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fffbef;
+    box-shadow: 5px 5px 10px rgb(0 0 0 / 42%);
+    width: 100vw;
+    position: absolute;
+    bottom: 0;
+    height: 2.5rem;
+    grid-area: footer;
+}
+.footerP{
+    font-family:"Open Sans",sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #101010;
+    text-align: center;
+    margin: 0 auto;
+}
