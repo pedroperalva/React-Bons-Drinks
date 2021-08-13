@@ -13,5 +13,15 @@
   font-family: 'Bilbo Swash Caps', cursive;
   text-align: center;
   padding-top: 40px;
+  animation: efeito 1s;
+}
+
+@keyframes efeito {
+  from {
+    font-size: 0px;
+  }
+  to {
+    font-size:120px;
+  }
 }
 

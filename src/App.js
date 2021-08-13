@@ -1,5 +1,4 @@
 import React, {Component} from 'react'
-import styles from './App.module.css';
 import HomePage from './pages/Home/index';
 import SobreNos from './pages/SobreNos/SobreNos';
 import Contato from './pages/Contato/Contato';
